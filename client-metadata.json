@@ -1,0 +1,11 @@
+{
+  "client_id": "https://eduardomartnez.github.io/client-metadata.json",
+  "client_name": "Bluesky Moderation Helper",
+  "client_uri": "https://eduardomartnez.github.io",
+  "scope": "atproto",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web",
+  "dpop_bound_access_tokens": true
+}
